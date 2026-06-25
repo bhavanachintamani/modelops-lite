@@ -1,0 +1,12 @@
+{
+  "accuracy": 0.7987,
+  "f1_score": 0.6667,
+  "roc_auc": 0.8813,
+  "feature_names": [
+    "tenure_months",
+    "monthly_charges",
+    "month_to_month_contract",
+    "support_calls_last_year",
+    "has_addon_service"
+  ]
+}
